@@ -4,3 +4,10 @@ function mult(a, b){
 }
 
 add(9,6);
+
+function search(a, b){
+    const mul1=a*b;
+    console.log("my first project" +mul1)
+}
+
+search(90,60);
