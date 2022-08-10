@@ -9,6 +9,6 @@ fname();
 function check(a,b)
 {
     const check1=a+b
-    console.log(check1)
+    console.log("update branch code" +check1)
 }
 check(76,89)
