@@ -18,3 +18,4 @@ function mult(a , b){
 }
 
 add(9,6);
+
